@@ -1,4 +1,11 @@
-<p align="center"><a href="https://jarscr.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<p align="center"><a href="https://jarscr.com" target="_blank"><img src="https://raw.githubusercontent.com/jarscr/php-framework/master/public/static/img/logos/logo.png" width="200"></a></p>
+
+
+<p align="center">
+<a href="https://packagist.org/packages/jarscr/php-framework"><img src="https://img.shields.io/packagist/dt/jarscr/php-framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/jarscr/php-framework"><img src="https://img.shields.io/packagist/v/jarscr/php-framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/jarscr/php-framework"><img src="https://img.shields.io/packagist/l/jarscr/php-framework" alt="License"></a>
+</p>
 
 # Welcome to the PHP MVC framework
 
