@@ -2,7 +2,7 @@
     "name": "jarscr/php-framework",
     "type": "project",
     "description": "PHP MVC framework for building web applications in PHP 7.3",
-    "keywords": ["mvc","framework","php","costa rica","web"],
+    "keywords": ["mvc","framework","php","costa rica","web","jarscr"],
     "homepage": "https://github.com/jarscr/php-framework",
     "license": "MIT",
     "authors": [
@@ -27,8 +27,12 @@
         "doctrine/common": "^3.0",
         "doctrine/inflector": "^2.0",
         "symfony/yaml": "^5.1",
-        "sentry/sdk": "^3.0",
+        
         "aws/aws-sdk-php": "^3.171"
+    },
+    "require-dev": {
+        "sentry/sdk": "^3.0",
+        "phpunit/phpunit": "^9.3.3"
     },
     "config": {
         "optimize-autoloader": true,
