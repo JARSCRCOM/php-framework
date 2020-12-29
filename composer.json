@@ -5,6 +5,7 @@
     "keywords": ["mvc","framework","php","costa rica","web","jarscr"],
     "homepage": "https://github.com/jarscr/php-framework",
     "license": "MIT",
+    "version":"1.0.0-dev",
     "authors": [
         {
             "name": "Alfredo Rodríguez",
