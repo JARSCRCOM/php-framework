@@ -6,7 +6,7 @@ It was created for the [Write PHP like a pro: build an MVC framework from scratc
 
 ## Starting an application using this framework
 
-1. First, download the framework, either directly or by cloning the repo.
+1. First, install project with **composer create-project jarscr/php-framework example-app**.
 1. Run **composer update** to install the project dependencies.
 1. Configure your web server to have the **public** folder as the web root.
 1. Open [App/Config.php](App/Config.php) and enter your database configuration data.
