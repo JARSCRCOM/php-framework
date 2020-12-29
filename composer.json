@@ -1,5 +1,20 @@
 {
+    "name": "jarscr/php-framework",
+    "type": "project",
+    "description": "PHP MVC framework for building web applications in PHP 7.3",
+    "keywords": ["mvc","framework","php","costa rica","web"],
+    "homepage": "https://github.com/jarscr/php-framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alfredo Rodríguez",
+            "email": "jarscr@gmail.com",
+            "homepage": "http://www.jarscr.com",
+            "role": "Developer"
+        }
+    ],
     "require": {
+        "php": "~7.3",
         "twig/twig": "~3.0",
         "symfony/polyfill-mbstring": "^1.10",       
         "psr/log": "^1.1",

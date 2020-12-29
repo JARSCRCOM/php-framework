@@ -102,8 +102,8 @@ final class Versions
   'symfony/stopwatch' => 'v5.2.1@2b105c0354f39a63038a1d8bf776ee92852813af',
   'symfony/string' => 'v5.2.1@5bd67751d2e3f7d6f770c9154b8fbcb2aa05f7ed',
   'symfony/yaml' => 'v5.2.1@290ea5e03b8cf9b42c783163123f54441fb06939',
-  'twig/twig' => 'v2.14.1@5eb9ac5dfdd20c3f59495c22841adc5da980d312',
-  '__root__' => 'No version set (parsed as 1.0.0)@',
+  'twig/twig' => 'v3.1.1@b02fa41f3783a2616eccef7b92fbc2343ffed737',
+  '__root__' => 'dev-master@65ecf80074ef09b3904babe5f3bf5a055c2315e8',
 );
 
     private function __construct()
